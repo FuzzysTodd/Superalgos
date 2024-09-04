@@ -1,1 +1,0 @@
-# the index files left in this folder are necessary cause for some reason js looks up for them and only them if they are named that way and only that way
